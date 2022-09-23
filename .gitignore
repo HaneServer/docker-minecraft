@@ -1,1 +1,7 @@
 server/*
+
+!/server/bukkit.yml
+!/server/spigot.yml
+!/server/paper.yml
+!/server/lobby.sh
+!/server/server.properties
